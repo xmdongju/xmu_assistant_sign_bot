@@ -89,7 +89,7 @@ impl SignData {
         bail!("无法获取有效的位置信息，最近的距离为 {student_distance} 米");
     }
 
-    /// 用位置库前三个点各测一次雷达距离，三点推算出老师的大致坐标。
+    /// 用固定参考三角形各测一次雷达距离，三点推算出老师的大致坐标。
     ///
     /// 推算结果可能不在任何已知的楼附近——那时 [`Self::location_fix_triple`] 会失败，
     /// 但坐标本身还能留给最后的兜底直接去签。
@@ -99,8 +99,9 @@ impl SignData {
         device_id: &str,
     ) -> Result<GeoPoint> {
         let mut location = Vec::with_capacity(3);
-        for i in 0..3 {
-            if let Some(loc) = LOCATIONS.get(i) {
+        // Keep the established reference triangle independent of catalog ordering.
+        for name in ["学武", "西部片区2号", "一期田径场"] {
+            if let Some(loc) = LOCATIONS.query(name) {
                 let radar_distance = AutoSignRequest::radar_distance(
                     client,
                     device_id,

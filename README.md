@@ -197,6 +197,10 @@ pwsh scripts/build-alinux3.ps1
 
 ---
 
+## 校园位置库
+
+内置校园位置库提供翔安、思明、漳州三个校区的 474 个楼宇参考地点，兼容原有地点名称，并支持校区消歧与楼号完整匹配。可通过 `XMU_LOCATION_FILE` 加载本机 JSON；文件无效时回退到内置副本。公开来源、格式、生成步骤与精度说明见 [校园位置库](docs/campus-locations.md)。
+
 ## 致谢
 
 - [xmu_secure_link](https://github.com/XMU-MoYu-Club/xmu_secure_link)：厦大 SecureLink（OpenVPN3）客户端。本项目的 `/flushvpn` 登录中转、以及 `*.xmu.edu.cn` 经校园网出口（SOCKS5 分流）均基于该项目实现；配套容器镜像见 Docker Hub `vintcessun/xmu_secure_link_docker`。

@@ -1,0 +1,6029 @@
+{
+  "schema_version": 1,
+  "coordinate_system": "xmu-map-native",
+  "source_url": "https://map.xmu.edu.cn/",
+  "retrieved_at": "2026-10-08T00:45:34.619Z",
+  "coordinate_note": "Preserves official map coordinates and original bot coordinates; no cross-provider conversion or classroom accuracy claim.",
+  "legacy_locations": [
+    {
+      "region": "XiangAn",
+      "name": "学武",
+      "longitude": 118.31379,
+      "latitude": 24.605488
+    },
+    {
+      "region": "XiangAn",
+      "name": "西部片区2号",
+      "longitude": 118.299904,
+      "latitude": 24.604252
+    },
+    {
+      "region": "XiangAn",
+      "name": "一期田径场",
+      "longitude": 118.31887,
+      "latitude": 24.608957
+    },
+    {
+      "region": "XiangAn",
+      "name": "西部片区4号",
+      "longitude": 118.300186,
+      "latitude": 24.60527
+    },
+    {
+      "region": "XiangAn",
+      "name": "文宣",
+      "longitude": 118.30997,
+      "latitude": 24.60528
+    },
+    {
+      "region": "XiangAn",
+      "name": "坤銮",
+      "longitude": 118.312744,
+      "latitude": 24.605589
+    },
+    {
+      "region": "XiangAn",
+      "name": "南存钿",
+      "longitude": 118.31886,
+      "latitude": 24.604958
+    },
+    {
+      "region": "XiangAn",
+      "name": "佘明培游泳馆",
+      "longitude": 118.31192,
+      "latitude": 24.610806
+    },
+    {
+      "region": "XiangAn",
+      "name": "爱秋体育馆",
+      "longitude": 118.31051,
+      "latitude": 24.611519
+    },
+    {
+      "region": "XiangAn",
+      "name": "一期篮球场",
+      "longitude": 118.31724,
+      "latitude": 24.608389
+    },
+    {
+      "region": "XiangAn",
+      "name": "新工科",
+      "longitude": 118.3103,
+      "latitude": 24.61468
+    },
+    {
+      "region": "XiangAn",
+      "name": "德旺图书馆",
+      "longitude": 118.31141,
+      "latitude": 24.6056
+    },
+    {
+      "region": "XiangAn",
+      "name": "教学楼5号",
+      "longitude": 118.30905,
+      "latitude": 24.60489
+    },
+    {
+      "region": "XiangAn",
+      "name": "二期田径场",
+      "longitude": 118.302666,
+      "latitude": 24.609406
+    },
+    {
+      "region": "XiangAn",
+      "name": "二期篮球场",
+      "longitude": 118.303,
+      "latitude": 24.610474
+    },
+    {
+      "region": "XiangAn",
+      "name": "西部片区正信",
+      "longitude": 118.30039,
+      "latitude": 24.603584
+    },
+    {
+      "region": "XiangAn",
+      "name": "西部片区益海嘉里",
+      "longitude": 118.300995,
+      "latitude": 24.604538
+    },
+    {
+      "region": "XiangAn",
+      "name": "西部片区5号",
+      "longitude": 118.30151,
+      "latitude": 24.605577
+    },
+    {
+      "region": "SiMing",
+      "name": "海韵",
+      "longitude": 118.11384,
+      "latitude": 24.430412
+    },
+    {
+      "region": "SiMing",
+      "name": "庄汉水",
+      "longitude": 118.09652,
+      "latitude": 24.437782
+    },
+    {
+      "region": "XiangAn",
+      "name": "航院大楼",
+      "longitude": 118.31113,
+      "latitude": 24.60862
+    },
+    {
+      "region": "SiMing",
+      "name": "集美",
+      "longitude": 118.09632,
+      "latitude": 24.436747
+    },
+    {
+      "region": "XiangAn",
+      "name": "5号楼",
+      "longitude": 118.3091,
+      "latitude": 24.60491
+    },
+    {
+      "region": "XiangAn",
+      "name": "黄朝阳楼",
+      "longitude": 118.30727,
+      "latitude": 24.604607
+    },
+    {
+      "region": "SiMing",
+      "name": "祖营楼",
+      "longitude": 118.097046,
+      "latitude": 24.436758
+    },
+    {
+      "region": "XiangAn",
+      "name": "图书馆香山",
+      "longitude": 118.311424,
+      "latitude": 24.605495
+    },
+    {
+      "region": "SiMing",
+      "name": "钟铭选楼",
+      "longitude": 118.093864,
+      "latitude": 24.43696
+    },
+    {
+      "region": "SiMing",
+      "name": "联兴楼",
+      "longitude": 118.09944,
+      "latitude": 24.434107
+    },
+    {
+      "region": "XiangAn",
+      "name": "希平楼",
+      "longitude": 118.3176,
+      "latitude": 24.605528
+    },
+    {
+      "region": "SiMing",
+      "name": "艺术学院",
+      "longitude": 118.10967,
+      "latitude": 24.43094
+    },
+    {
+      "region": "XiangAn",
+      "name": "金泉楼",
+      "longitude": 118.31556,
+      "latitude": 24.606601
+    },
+    {
+      "region": "SiMing",
+      "name": "基金楼",
+      "longitude": 118.09578,
+      "latitude": 24.437609
+    },
+    {
+      "region": "SiMing",
+      "name": "群贤二",
+      "longitude": 118.0956,
+      "latitude": 24.4371
+    },
+    {
+      "region": "SiMing",
+      "name": "德贞楼",
+      "longitude": 118.10167,
+      "latitude": 24.43397
+    },
+    {
+      "region": "XiangAn",
+      "name": "跃进楼",
+      "longitude": 118.30758,
+      "latitude": 24.605894
+    }
+  ],
+  "locations": [
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·能源材料大楼",
+      "aliases": [
+        "能源材料大楼",
+        "能源材料大"
+      ],
+      "longitude": 118.31853572463893,
+      "latitude": 24.606355329747096,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383097,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·佘明培游泳馆",
+      "aliases": [
+        "佘明培游泳馆"
+      ],
+      "longitude": 118.31176938243954,
+      "latitude": 24.611513878836952,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383143,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·芙蓉10",
+      "aliases": [
+        "芙蓉10"
+      ],
+      "longitude": 118.31418967769724,
+      "latitude": 24.61227695916319,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383142,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·芙蓉9",
+      "aliases": [
+        "芙蓉9"
+      ],
+      "longitude": 118.31430224877084,
+      "latitude": 24.61193027326781,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383141,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·芙蓉8",
+      "aliases": [
+        "芙蓉8"
+      ],
+      "longitude": 118.31492646962334,
+      "latitude": 24.61245228479377,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383140,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·芙蓉7",
+      "aliases": [
+        "芙蓉7"
+      ],
+      "longitude": 118.31493176421708,
+      "latitude": 24.612065552243145,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383139,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·芙蓉6",
+      "aliases": [
+        "芙蓉6"
+      ],
+      "longitude": 118.31561231581162,
+      "latitude": 24.61243153626649,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383138,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·芙蓉5",
+      "aliases": [
+        "芙蓉5"
+      ],
+      "longitude": 118.31561649724046,
+      "latitude": 24.612101371691956,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383137,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·芙蓉4",
+      "aliases": [
+        "芙蓉4"
+      ],
+      "longitude": 118.31493206368856,
+      "latitude": 24.61169730625594,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383136,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·芙蓉3",
+      "aliases": [
+        "芙蓉3"
+      ],
+      "longitude": 118.31495261488061,
+      "latitude": 24.611359006685582,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383135,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·芙蓉2",
+      "aliases": [
+        "芙蓉2"
+      ],
+      "longitude": 118.3158715197115,
+      "latitude": 24.611262449630892,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383134,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·芙蓉1",
+      "aliases": [
+        "芙蓉1"
+      ],
+      "longitude": 118.31562756672014,
+      "latitude": 24.611028922383618,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383133,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南安13",
+      "aliases": [
+        "南安13"
+      ],
+      "longitude": 118.31631850413106,
+      "latitude": 24.61247536504633,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383132,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南安12",
+      "aliases": [
+        "南安12"
+      ],
+      "longitude": 118.31634025889838,
+      "latitude": 24.612115128390094,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383131,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南安11",
+      "aliases": [
+        "南安11"
+      ],
+      "longitude": 118.31638097140063,
+      "latitude": 24.611772144346624,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383130,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南安10",
+      "aliases": [
+        "南安10"
+      ],
+      "longitude": 118.31695515061921,
+      "latitude": 24.612444390616027,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383129,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南安9",
+      "aliases": [
+        "南安9"
+      ],
+      "longitude": 118.3169568344868,
+      "latitude": 24.612123469323144,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383127,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南安8",
+      "aliases": [
+        "南安8"
+      ],
+      "longitude": 118.31701891187453,
+      "latitude": 24.611753863720573,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383126,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南安7",
+      "aliases": [
+        "南安7"
+      ],
+      "longitude": 118.31786415561584,
+      "latitude": 24.61241943757816,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383125,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南安6",
+      "aliases": [
+        "南安6"
+      ],
+      "longitude": 118.31787721412428,
+      "latitude": 24.612108867852903,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383124,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南安5",
+      "aliases": [
+        "南安5"
+      ],
+      "longitude": 118.31791783621605,
+      "latitude": 24.61173125291925,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383123,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南安4",
+      "aliases": [
+        "南安4"
+      ],
+      "longitude": 118.3184794372184,
+      "latitude": 24.61241508470696,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383121,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南安3",
+      "aliases": [
+        "南安3"
+      ],
+      "longitude": 118.31852014972054,
+      "latitude": 24.61207210066349,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383120,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南安2",
+      "aliases": [
+        "南安2"
+      ],
+      "longitude": 118.31847022673725,
+      "latitude": 24.61178482763939,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383119,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南安1",
+      "aliases": [
+        "南安1"
+      ],
+      "longitude": 118.31926750259407,
+      "latitude": 24.611946099850492,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383118,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南光8",
+      "aliases": [
+        "南光8"
+      ],
+      "longitude": 118.31800064561656,
+      "latitude": 24.611092609526686,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383117,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南光7",
+      "aliases": [
+        "南光7"
+      ],
+      "longitude": 118.31798854769255,
+      "latitude": 24.610805210837903,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383116,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南光6",
+      "aliases": [
+        "南光6"
+      ],
+      "longitude": 118.31854497275174,
+      "latitude": 24.611438267408694,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383115,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南光5",
+      "aliases": [
+        "南光5"
+      ],
+      "longitude": 118.3186474631703,
+      "latitude": 24.611093923749912,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383114,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南光4",
+      "aliases": [
+        "南光4"
+      ],
+      "longitude": 118.3186177014972,
+      "latitude": 24.610801966252644,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383113,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南光3",
+      "aliases": [
+        "南光3"
+      ],
+      "longitude": 118.31919816982389,
+      "latitude": 24.611468419762964,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383111,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南光2",
+      "aliases": [
+        "南光2"
+      ],
+      "longitude": 118.31923888232615,
+      "latitude": 24.611125435719465,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383110,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南光1",
+      "aliases": [
+        "南光1"
+      ],
+      "longitude": 118.31926701661206,
+      "latitude": 24.610794037194218,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383109,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·竞丰餐厅",
+      "aliases": [
+        "竞丰餐厅"
+      ],
+      "longitude": 118.3173297847955,
+      "latitude": 24.611057898364074,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383108,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·综合楼",
+      "aliases": [
+        "综合楼",
+        "综合"
+      ],
+      "longitude": 118.31680351548027,
+      "latitude": 24.61049020313522,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383107,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·醇醚酯化工清洁生产国家工程实验室",
+      "aliases": [
+        "醇醚酯化工清洁生产国家工程实验室"
+      ],
+      "longitude": 118.31696398483024,
+      "latitude": 24.60748691251076,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383104,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·能源学院",
+      "aliases": [
+        "能源学院"
+      ],
+      "longitude": 118.31724425414421,
+      "latitude": 24.60665945030332,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383102,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·一期运动场",
+      "aliases": [
+        "一期运动场"
+      ],
+      "longitude": 118.31859050154372,
+      "latitude": 24.608984809496413,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383099,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·德旺图书馆",
+      "aliases": [
+        "德旺图书馆"
+      ],
+      "longitude": 118.31101089081261,
+      "latitude": 24.60574935105638,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383086,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·综合体育馆",
+      "aliases": [
+        "综合体育馆"
+      ],
+      "longitude": 118.31033525103362,
+      "latitude": 24.611786457933626,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383144,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·博学1",
+      "aliases": [
+        "博学1"
+      ],
+      "longitude": 118.30684905861386,
+      "latitude": 24.611609568382143,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383152,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·映雪1",
+      "aliases": [
+        "映雪1"
+      ],
+      "longitude": 118.30834554432857,
+      "latitude": 24.612522323216588,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383146,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·映雪2",
+      "aliases": [
+        "映雪2"
+      ],
+      "longitude": 118.3083000175248,
+      "latitude": 24.612953055603732,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383147,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·映雪3",
+      "aliases": [
+        "映雪3"
+      ],
+      "longitude": 118.30751278839313,
+      "latitude": 24.611810532950507,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383148,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·映雪4",
+      "aliases": [
+        "映雪4"
+      ],
+      "longitude": 118.30749380241815,
+      "latitude": 24.61226541899547,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383149,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·映雪5",
+      "aliases": [
+        "映雪5"
+      ],
+      "longitude": 118.30753891109987,
+      "latitude": 24.612640440363215,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383150,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·凌云5",
+      "aliases": [
+        "凌云5"
+      ],
+      "longitude": 118.30486552995734,
+      "latitude": 24.61225450179331,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384217,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·凌云6",
+      "aliases": [
+        "凌云6"
+      ],
+      "longitude": 118.3049258048269,
+      "latitude": 24.61264332525125,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384218,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·凌云7",
+      "aliases": [
+        "凌云7"
+      ],
+      "longitude": 118.30495686048579,
+      "latitude": 24.61294797655271,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384219,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·国光1",
+      "aliases": [
+        "国光1"
+      ],
+      "longitude": 118.30520222108368,
+      "latitude": 24.61053688209845,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384221,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·国光2",
+      "aliases": [
+        "国光2"
+      ],
+      "longitude": 118.30517538078351,
+      "latitude": 24.61088097442792,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384223,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·坤銮楼（国际学院/海外教育学院）",
+      "aliases": [
+        "坤銮楼（国际学院/海外教育学院）",
+        "坤銮楼",
+        "坤銮"
+      ],
+      "longitude": 118.31257908415319,
+      "latitude": 24.60567171134145,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383091,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·周隆泉楼（近海海洋环境科学国家重点实验室）",
+      "aliases": [
+        "周隆泉楼（近海海洋环境科学国家重点实验室）",
+        "周隆泉楼",
+        "周隆泉"
+      ],
+      "longitude": 118.31540415552928,
+      "latitude": 24.60553227631437,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383094,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·希平楼（海洋与地球学院）",
+      "aliases": [
+        "希平楼（海洋与地球学院）",
+        "希平楼",
+        "希平"
+      ],
+      "longitude": 118.31738381764575,
+      "latitude": 24.60558341801383,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383095,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·南存钿楼（电子科学与技术学院）",
+      "aliases": [
+        "南存钿楼（电子科学与技术学院）",
+        "南存钿楼",
+        "南存钿"
+      ],
+      "longitude": 118.31846813221676,
+      "latitude": 24.60461245105126,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383096,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·林积灿楼（学生活动中心）",
+      "aliases": [
+        "林积灿楼（学生活动中心）",
+        "林积灿楼",
+        "林积灿"
+      ],
+      "longitude": 118.3158261524182,
+      "latitude": 24.60920343834284,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383106,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·国光3",
+      "aliases": [
+        "国光3"
+      ],
+      "longitude": 118.3044962135852,
+      "latitude": 24.610562315098925,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384224,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·国光4",
+      "aliases": [
+        "国光4"
+      ],
+      "longitude": 118.30447196485585,
+      "latitude": 24.610891783312532,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384225,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·国光5",
+      "aliases": [
+        "国光5"
+      ],
+      "longitude": 118.30506160973368,
+      "latitude": 24.611209585684897,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384226,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·国光6",
+      "aliases": [
+        "国光6"
+      ],
+      "longitude": 118.30444383056988,
+      "latitude": 24.61122318183778,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384227,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·国光7",
+      "aliases": [
+        "国光7"
+      ],
+      "longitude": 118.30447618021458,
+      "latitude": 24.611540526943493,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384228,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·国光8",
+      "aliases": [
+        "国光8"
+      ],
+      "longitude": 118.30347188761084,
+      "latitude": 24.610486851350153,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384229,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·国光9",
+      "aliases": [
+        "国光9"
+      ],
+      "longitude": 118.30343755462712,
+      "latitude": 24.61085867352464,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384230,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·国光10",
+      "aliases": [
+        "国光10"
+      ],
+      "longitude": 118.30350523176992,
+      "latitude": 24.61118513624738,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384231,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·国光11",
+      "aliases": [
+        "国光11"
+      ],
+      "longitude": 118.3035729089126,
+      "latitude": 24.61151159897009,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384232,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·笃行1",
+      "aliases": [
+        "笃行1"
+      ],
+      "longitude": 118.304489669063,
+      "latitude": 24.608929529562808,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384233,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·笃行2",
+      "aliases": [
+        "笃行2"
+      ],
+      "longitude": 118.30460016638727,
+      "latitude": 24.6092373800575,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384234,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·笃行3",
+      "aliases": [
+        "笃行3"
+      ],
+      "longitude": 118.30451395532157,
+      "latitude": 24.609538957830416,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384235,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·笃行4",
+      "aliases": [
+        "笃行4"
+      ],
+      "longitude": 118.30461196484003,
+      "latitude": 24.609893024733488,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384236,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·笃行5",
+      "aliases": [
+        "笃行5"
+      ],
+      "longitude": 118.30474650543186,
+      "latitude": 24.610234272167737,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384237,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·笃行6",
+      "aliases": [
+        "笃行6"
+      ],
+      "longitude": 118.30352129330078,
+      "latitude": 24.60891196804412,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384238,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·笃行7",
+      "aliases": [
+        "笃行7"
+      ],
+      "longitude": 118.30341242336374,
+      "latitude": 24.609227473571885,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384239,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·笃行8",
+      "aliases": [
+        "笃行8"
+      ],
+      "longitude": 118.30351163645753,
+      "latitude": 24.60955960338911,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384240,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·笃行9",
+      "aliases": [
+        "笃行9"
+      ],
+      "longitude": 118.30354907163496,
+      "latitude": 24.609893092821586,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384241,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·笃行10",
+      "aliases": [
+        "笃行10"
+      ],
+      "longitude": 118.30353101800415,
+      "latitude": 24.610222149110207,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384242,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·丰庭1（地图编号384243）",
+      "aliases": [
+        "丰庭1"
+      ],
+      "longitude": 118.30361385206066,
+      "latitude": 24.60744959686057,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384243,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·丰庭1（地图编号384244）",
+      "aliases": [
+        "丰庭1"
+      ],
+      "longitude": 118.30361385206066,
+      "latitude": 24.60744959686057,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384244,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·丰庭1（地图编号384245）",
+      "aliases": [
+        "丰庭1"
+      ],
+      "longitude": 118.30361385206066,
+      "latitude": 24.60744959686057,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384245,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·丰庭1（地图编号384246）",
+      "aliases": [
+        "丰庭1"
+      ],
+      "longitude": 118.30361385206066,
+      "latitude": 24.60744959686057,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384246,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·丰庭2（地图编号384247）",
+      "aliases": [
+        "丰庭2"
+      ],
+      "longitude": 118.30366145830362,
+      "latitude": 24.607815374946547,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384247,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·丰庭2（地图编号384248）",
+      "aliases": [
+        "丰庭2"
+      ],
+      "longitude": 118.30366145830362,
+      "latitude": 24.607815374946547,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384248,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·丰庭3（地图编号384249）",
+      "aliases": [
+        "丰庭3"
+      ],
+      "longitude": 118.30369519234449,
+      "latitude": 24.608180044746668,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384249,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·丰庭3（地图编号384250）",
+      "aliases": [
+        "丰庭3"
+      ],
+      "longitude": 118.30369519234449,
+      "latitude": 24.608180044746668,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384250,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·丰庭4",
+      "aliases": [
+        "丰庭4"
+      ],
+      "longitude": 118.30365930381026,
+      "latitude": 24.608550480316588,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384251,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·实验动物中心",
+      "aliases": [
+        "实验动物中心"
+      ],
+      "longitude": 118.30761727127577,
+      "latitude": 24.60893280128105,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384252,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·实验动物中心二期",
+      "aliases": [
+        "实验动物中心二期"
+      ],
+      "longitude": 118.30787654303555,
+      "latitude": 24.60972153105653,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384253,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·分子影像大楼",
+      "aliases": [
+        "分子影像大楼",
+        "分子影像大"
+      ],
+      "longitude": 118.30648056899292,
+      "latitude": 24.607079248559167,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384255,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·爱礼楼",
+      "aliases": [
+        "爱礼楼",
+        "爱礼"
+      ],
+      "longitude": 118.30522731298635,
+      "latitude": 24.606122973850894,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384259,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·成智楼",
+      "aliases": [
+        "成智楼",
+        "成智"
+      ],
+      "longitude": 118.30497321716967,
+      "latitude": 24.605385019292363,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384260,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·成义楼",
+      "aliases": [
+        "成义楼",
+        "成义"
+      ],
+      "longitude": 118.30493866943522,
+      "latitude": 24.604708671481042,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384261,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·成伟楼",
+      "aliases": [
+        "成伟楼",
+        "成伟"
+      ],
+      "longitude": 118.30518914883584,
+      "latitude": 24.604061390434033,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384262,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·国际学术交流中心",
+      "aliases": [
+        "国际学术交流中心"
+      ],
+      "longitude": 118.3054740516306,
+      "latitude": 24.603076918102666,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384263,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·丰庭餐厅",
+      "aliases": [
+        "丰庭餐厅"
+      ],
+      "longitude": 118.30279295993381,
+      "latitude": 24.60810092650943,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384264,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·博学4",
+      "aliases": [
+        "博学4"
+      ],
+      "longitude": 118.30692742104424,
+      "latitude": 24.612648243756873,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383155,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·博学6",
+      "aliases": [
+        "博学6"
+      ],
+      "longitude": 118.30600096700118,
+      "latitude": 24.611355947711367,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384204,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·博学7",
+      "aliases": [
+        "博学7"
+      ],
+      "longitude": 118.3060629568235,
+      "latitude": 24.61167723465028,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384206,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·博学8",
+      "aliases": [
+        "博学8"
+      ],
+      "longitude": 118.30597743795585,
+      "latitude": 24.612002474770357,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384208,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·博学9",
+      "aliases": [
+        "博学9"
+      ],
+      "longitude": 118.30598338238741,
+      "latitude": 24.612347612553414,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384209,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·博学10",
+      "aliases": [
+        "博学10"
+      ],
+      "longitude": 118.3059810063217,
+      "latitude": 24.612644871499192,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384211,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·博学11",
+      "aliases": [
+        "博学11"
+      ],
+      "longitude": 118.3060278751613,
+      "latitude": 24.612969671792975,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384212,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·凌云1",
+      "aliases": [
+        "凌云1"
+      ],
+      "longitude": 118.30549615856847,
+      "latitude": 24.612333212792556,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384213,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·凌云2",
+      "aliases": [
+        "凌云2"
+      ],
+      "longitude": 118.30550085421947,
+      "latitude": 24.612682972216483,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384214,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·凌云3",
+      "aliases": [
+        "凌云3"
+      ],
+      "longitude": 118.30550278107813,
+      "latitude": 24.61293808225171,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384215,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·凌云4",
+      "aliases": [
+        "凌云4"
+      ],
+      "longitude": 118.30492899174129,
+      "latitude": 24.611932220885116,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384216,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·二期运动场",
+      "aliases": [
+        "二期运动场"
+      ],
+      "longitude": 118.3026728396963,
+      "latitude": 24.60941961956531,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384265,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·文宣楼",
+      "aliases": [
+        "文宣楼",
+        "文宣"
+      ],
+      "longitude": 118.30986905133273,
+      "latitude": 24.605397695397393,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384270,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·椭圆楼（国家传染病诊断试剂与疫苗工程技术研究中心）",
+      "aliases": [
+        "椭圆楼（国家传染病诊断试剂与疫苗工程技术研究中心）",
+        "椭圆楼",
+        "椭圆"
+      ],
+      "longitude": 118.30643429165582,
+      "latitude": 24.60509234896694,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384267,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·曾宪梓楼（公共卫生学院）",
+      "aliases": [
+        "曾宪梓楼（公共卫生学院）",
+        "曾宪梓楼",
+        "曾宪梓"
+      ],
+      "longitude": 118.30658215530747,
+      "latitude": 24.606388595998972,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384258,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·跃进楼（细胞应激生物学国家重点实验室）",
+      "aliases": [
+        "跃进楼（细胞应激生物学国家重点实验室）",
+        "跃进楼",
+        "跃进"
+      ],
+      "longitude": 118.30743133748649,
+      "latitude": 24.606147973953888,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384257,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·庄瑾楼（药学院）",
+      "aliases": [
+        "庄瑾楼（药学院）",
+        "庄瑾楼",
+        "庄瑾"
+      ],
+      "longitude": 118.30800332430516,
+      "latitude": 24.607912264380992,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384254,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·5号楼",
+      "aliases": [
+        "5号楼",
+        "5号"
+      ],
+      "longitude": 118.30887951974591,
+      "latitude": 24.60500387856039,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384269,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·航空航天学院",
+      "aliases": [
+        "航空航天学院",
+        "航院大楼"
+      ],
+      "longitude": 118.31082242486747,
+      "latitude": 24.608844948990402,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384271,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·学生广场",
+      "aliases": [
+        "学生广场"
+      ],
+      "longitude": 118.31378430101807,
+      "latitude": 24.60793585228891,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384272,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·高尔夫练习场",
+      "aliases": [
+        "高尔夫练习场"
+      ],
+      "longitude": 118.3086701657482,
+      "latitude": 24.61314228263658,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384274,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·综合实验楼",
+      "aliases": [
+        "综合实验楼",
+        "综合实验"
+      ],
+      "longitude": 118.31007217525263,
+      "latitude": 24.6153153906073,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384275,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·八闽园",
+      "aliases": [
+        "八闽园"
+      ],
+      "longitude": 118.31141743254153,
+      "latitude": 24.616481277049054,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384276,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·博学3",
+      "aliases": [
+        "博学3"
+      ],
+      "longitude": 118.30687491008933,
+      "latitude": 24.612335583124356,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383154,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·博学2",
+      "aliases": [
+        "博学2"
+      ],
+      "longitude": 118.30686892045259,
+      "latitude": 24.611973129896263,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383153,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·博学5",
+      "aliases": [
+        "博学5"
+      ],
+      "longitude": 118.30688532414587,
+      "latitude": 24.61294390310605,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383156,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·后勤综合楼",
+      "aliases": [
+        "后勤综合楼",
+        "后勤综合"
+      ],
+      "longitude": 118.3074269040269,
+      "latitude": 24.61055882989772,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384284,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·物理天文台",
+      "aliases": [
+        "物理天文台"
+      ],
+      "longitude": 118.30729288988783,
+      "latitude": 24.607304579101942,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384285,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·资产处仓库",
+      "aliases": [
+        "资产处仓库"
+      ],
+      "longitude": 118.30737250215265,
+      "latitude": 24.610184944683148,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384286,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·映雪6",
+      "aliases": [
+        "映雪6"
+      ],
+      "longitude": 118.30750975405942,
+      "latitude": 24.613063037754593,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383151,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·污水及再生水处理站",
+      "aliases": [
+        "污水及再生水处理站"
+      ],
+      "longitude": 118.3148327884308,
+      "latitude": 24.603789246701304,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384291,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·金泉楼（环境与生态学院）",
+      "aliases": [
+        "金泉楼（环境与生态学院）",
+        "金泉楼",
+        "金泉"
+      ],
+      "longitude": 118.31540047250013,
+      "latitude": 24.607086665176674,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383105,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·大车库",
+      "aliases": [
+        "大车库"
+      ],
+      "longitude": 118.3097181664424,
+      "latitude": 24.615873271854447,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390470,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·一期篮球场",
+      "aliases": [
+        "一期篮球场"
+      ],
+      "longitude": 118.31716691513924,
+      "latitude": 24.60834746394898,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390479,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·一期网球场",
+      "aliases": [
+        "一期网球场"
+      ],
+      "longitude": 118.31722062545435,
+      "latitude": 24.609481745591673,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390481,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·一期排球场",
+      "aliases": [
+        "一期排球场"
+      ],
+      "longitude": 118.31686802149187,
+      "latitude": 24.60976833576195,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390485,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·二期篮球场",
+      "aliases": [
+        "二期篮球场"
+      ],
+      "longitude": 118.30298241353893,
+      "latitude": 24.610498686796497,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390488,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·信息学院（国家示范性软件学院）",
+      "aliases": [
+        "信息学院（国家示范性软件学院）",
+        "信息学院"
+      ],
+      "longitude": 118.30092674705605,
+      "latitude": 24.604707591131508,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391273,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·厦门大学幼儿园翔安园区",
+      "aliases": [
+        "厦门大学幼儿园翔安园区"
+      ],
+      "longitude": 118.3046729975473,
+      "latitude": 24.602948523684496,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390495,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·学武楼",
+      "aliases": [
+        "学武楼",
+        "学武"
+      ],
+      "longitude": 118.31361290764306,
+      "latitude": 24.605616133097563,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 383093,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·黄朝阳楼（生命科学学院）",
+      "aliases": [
+        "黄朝阳楼（生命科学学院）",
+        "黄朝阳楼",
+        "黄朝阳"
+      ],
+      "longitude": 118.3070151159344,
+      "latitude": 24.604446279174574,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384268,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·超珍楼（教工俱乐部）",
+      "aliases": [
+        "超珍楼（教工俱乐部）",
+        "超珍楼",
+        "超珍"
+      ],
+      "longitude": 118.30937185583826,
+      "latitude": 24.607167846671622,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384273,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·至善1",
+      "aliases": [
+        "至善1"
+      ],
+      "longitude": 118.30182903786687,
+      "latitude": 24.60665405436496,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511399,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·至善2",
+      "aliases": [
+        "至善2"
+      ],
+      "longitude": 118.30180996148147,
+      "latitude": 24.607074309519767,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511400,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·至善3",
+      "aliases": [
+        "至善3"
+      ],
+      "longitude": 118.3019072194765,
+      "latitude": 24.607623467959463,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511401,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·至善4",
+      "aliases": [
+        "至善4"
+      ],
+      "longitude": 118.30187380471688,
+      "latitude": 24.608105529706457,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511402,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·钟铭选楼（嘉庚五）",
+      "aliases": [
+        "钟铭选楼（嘉庚五）",
+        "钟铭选楼",
+        "钟铭选",
+        "嘉庚五",
+        "嘉庚五号楼",
+        "嘉庚5",
+        "嘉庚5号楼"
+      ],
+      "longitude": 118.09670159225925,
+      "latitude": 24.436511632028022,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382417,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·王清明游泳馆",
+      "aliases": [
+        "王清明游泳馆"
+      ],
+      "longitude": 118.09324809897049,
+      "latitude": 24.435735007302164,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 380561,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·桂华山楼（电镜新楼）",
+      "aliases": [
+        "桂华山楼（电镜新楼）",
+        "桂华山楼",
+        "桂华山"
+      ],
+      "longitude": 118.09627960471647,
+      "latitude": 24.437431396767415,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382464,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·基金楼",
+      "aliases": [
+        "基金楼",
+        "基金"
+      ],
+      "longitude": 118.0957004358483,
+      "latitude": 24.437592514945045,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382388,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·群贤一",
+      "aliases": [
+        "群贤一"
+      ],
+      "longitude": 118.0951973463832,
+      "latitude": 24.436747613476946,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382373,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·卢嘉锡楼",
+      "aliases": [
+        "卢嘉锡楼",
+        "卢嘉锡"
+      ],
+      "longitude": 118.09392215303995,
+      "latitude": 24.4379324789056,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382392,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·化学楼",
+      "aliases": [
+        "化学楼",
+        "化学"
+      ],
+      "longitude": 118.09448988102184,
+      "latitude": 24.43839496849069,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382394,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·经济楼",
+      "aliases": [
+        "经济楼",
+        "经济"
+      ],
+      "longitude": 118.09412146185582,
+      "latitude": 24.439257101224435,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382397,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·亦玄馆",
+      "aliases": [
+        "亦玄馆"
+      ],
+      "longitude": 118.09522699422774,
+      "latitude": 24.439018751668392,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382400,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·博学楼",
+      "aliases": [
+        "博学楼",
+        "博学"
+      ],
+      "longitude": 118.09828131296098,
+      "latitude": 24.435103003277597,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382468,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·南安楼",
+      "aliases": [
+        "南安楼",
+        "南安"
+      ],
+      "longitude": 118.09677746049204,
+      "latitude": 24.43440398563653,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382406,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·南光楼",
+      "aliases": [
+        "南光楼",
+        "南光"
+      ],
+      "longitude": 118.09855816696978,
+      "latitude": 24.434096405669983,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382411,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·图书馆",
+      "aliases": [
+        "图书馆"
+      ],
+      "longitude": 118.09654140173728,
+      "latitude": 24.438829751754533,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382413,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·科学艺术中心",
+      "aliases": [
+        "科学艺术中心"
+      ],
+      "longitude": 118.09795738050832,
+      "latitude": 24.43578085003842,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382415,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·保欣丽英楼（嘉庚一）",
+      "aliases": [
+        "保欣丽英楼（嘉庚一）",
+        "保欣丽英楼",
+        "保欣丽英",
+        "嘉庚一",
+        "嘉庚一号楼",
+        "嘉庚1",
+        "嘉庚1号楼"
+      ],
+      "longitude": 118.09760029855084,
+      "latitude": 24.438120514153702,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382423,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·成智楼",
+      "aliases": [
+        "成智楼",
+        "成智"
+      ],
+      "longitude": 118.09950729383655,
+      "latitude": 24.433573840405423,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382432,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·成智二",
+      "aliases": [
+        "成智二"
+      ],
+      "longitude": 118.09958356237411,
+      "latitude": 24.43389164379068,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382434,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·联兴楼",
+      "aliases": [
+        "联兴楼",
+        "联兴"
+      ],
+      "longitude": 118.09933071033532,
+      "latitude": 24.43424442107139,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382436,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·新闻楼",
+      "aliases": [
+        "新闻楼",
+        "新闻"
+      ],
+      "longitude": 118.10083923330916,
+      "latitude": 24.434053874312987,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382442,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·蔡清洁楼",
+      "aliases": [
+        "蔡清洁楼",
+        "蔡清洁"
+      ],
+      "longitude": 118.09964767848732,
+      "latitude": 24.434371108048744,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382446,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·风雨球场",
+      "aliases": [
+        "风雨球场"
+      ],
+      "longitude": 118.10040576039233,
+      "latitude": 24.434738921479926,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382448,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·南光七",
+      "aliases": [
+        "南光七"
+      ],
+      "longitude": 118.10011751141047,
+      "latitude": 24.43506621926864,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382458,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·逸夫楼",
+      "aliases": [
+        "逸夫楼",
+        "逸夫"
+      ],
+      "longitude": 118.09883824766854,
+      "latitude": 24.43773250397937,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382466,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·自钦楼",
+      "aliases": [
+        "自钦楼",
+        "自钦"
+      ],
+      "longitude": 118.1000304679846,
+      "latitude": 24.435710305368424,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382472,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·芙蓉2",
+      "aliases": [
+        "芙蓉2"
+      ],
+      "longitude": 118.10018148040257,
+      "latitude": 24.436739061436107,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382474,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·建文楼",
+      "aliases": [
+        "建文楼",
+        "建文"
+      ],
+      "longitude": 118.09818700889656,
+      "latitude": 24.439068496756256,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382478,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·克立楼",
+      "aliases": [
+        "克立楼",
+        "克立"
+      ],
+      "longitude": 118.09876821696577,
+      "latitude": 24.43876351388912,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382480,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·南光餐厅",
+      "aliases": [
+        "南光餐厅"
+      ],
+      "longitude": 118.0993727408092,
+      "latitude": 24.435017556842247,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382450,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·囊萤楼",
+      "aliases": [
+        "囊萤楼",
+        "囊萤"
+      ],
+      "longitude": 118.09394040367937,
+      "latitude": 24.437343054283993,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 380569,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·明培馆",
+      "aliases": [
+        "明培馆"
+      ],
+      "longitude": 118.09363068622747,
+      "latitude": 24.43656890133682,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 380564,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·芙蓉1",
+      "aliases": [
+        "芙蓉1"
+      ],
+      "longitude": 118.09921684722269,
+      "latitude": 24.435235582709858,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382470,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·南光五",
+      "aliases": [
+        "南光五"
+      ],
+      "longitude": 118.100345044032,
+      "latitude": 24.43437863930837,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382452,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·南光四",
+      "aliases": [
+        "南光四"
+      ],
+      "longitude": 118.10082870373736,
+      "latitude": 24.43448386122342,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382454,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·南光八",
+      "aliases": [
+        "南光八"
+      ],
+      "longitude": 118.10027476544417,
+      "latitude": 24.43536708735821,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382460,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·芙蓉4",
+      "aliases": [
+        "芙蓉4"
+      ],
+      "longitude": 118.10069574701646,
+      "latitude": 24.435812052970398,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382476,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·南光六",
+      "aliases": [
+        "南光六"
+      ],
+      "longitude": 118.10048520254014,
+      "latitude": 24.435056475850907,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382456,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·映雪一",
+      "aliases": [
+        "映雪一"
+      ],
+      "longitude": 118.0965474421767,
+      "latitude": 24.436103657778126,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382377,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·成义楼",
+      "aliases": [
+        "成义楼",
+        "成义"
+      ],
+      "longitude": 118.0958564981733,
+      "latitude": 24.43396721107704,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382404,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·建南大会堂",
+      "aliases": [
+        "建南大会堂"
+      ],
+      "longitude": 118.09787246460638,
+      "latitude": 24.434383123681904,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382408,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·同安二",
+      "aliases": [
+        "同安二"
+      ],
+      "longitude": 118.09477349109255,
+      "latitude": 24.437403953533824,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382380,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·群贤二",
+      "aliases": [
+        "群贤二"
+      ],
+      "longitude": 118.09550241928997,
+      "latitude": 24.437126772627103,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382382,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·集美一",
+      "aliases": [
+        "集美一"
+      ],
+      "longitude": 118.09596398751063,
+      "latitude": 24.43638441666821,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382375,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·芙蓉3",
+      "aliases": [
+        "芙蓉3"
+      ],
+      "longitude": 118.09957122688746,
+      "latitude": 24.437973638806803,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382487,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·集美二",
+      "aliases": [
+        "集美二"
+      ],
+      "longitude": 118.09617497170217,
+      "latitude": 24.43678648886584,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382384,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·同安一",
+      "aliases": [
+        "同安一"
+      ],
+      "longitude": 118.09460033338513,
+      "latitude": 24.437022218099237,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382371,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·庄汉水楼（南强二）",
+      "aliases": [
+        "庄汉水楼（南强二）",
+        "庄汉水楼",
+        "庄汉水",
+        "南强二",
+        "南强二号楼",
+        "南强2",
+        "南强2号楼"
+      ],
+      "longitude": 118.09604879601875,
+      "latitude": 24.437799347546907,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382462,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·曾呈奎楼",
+      "aliases": [
+        "曾呈奎楼",
+        "曾呈奎"
+      ],
+      "longitude": 118.09514919780378,
+      "latitude": 24.4331359691573,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382402,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·祖营楼（嘉庚四）",
+      "aliases": [
+        "祖营楼（嘉庚四）",
+        "祖营楼",
+        "祖营",
+        "嘉庚四",
+        "嘉庚四号楼",
+        "嘉庚4",
+        "嘉庚4号楼"
+      ],
+      "longitude": 118.09689695534081,
+      "latitude": 24.43688983413012,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382419,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·勤业餐厅",
+      "aliases": [
+        "勤业餐厅"
+      ],
+      "longitude": 118.10017656594238,
+      "latitude": 24.43825031364458,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382489,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·德贞楼、南光三（外文学院）",
+      "aliases": [
+        "德贞楼、南光三（外文学院）",
+        "德贞楼、南光三"
+      ],
+      "longitude": 118.10149248118938,
+      "latitude": 24.434065036028706,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382444,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·南光二（新闻学院）",
+      "aliases": [
+        "南光二（新闻学院）",
+        "南光二"
+      ],
+      "longitude": 118.10051863531561,
+      "latitude": 24.43379095913364,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382440,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·黄宜弘楼",
+      "aliases": [
+        "黄宜弘楼",
+        "黄宜弘"
+      ],
+      "longitude": 118.09983394530883,
+      "latitude": 24.434033757303304,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382438,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·嘉庚广场",
+      "aliases": [
+        "嘉庚广场"
+      ],
+      "longitude": 118.09773470989307,
+      "latitude": 24.437010592045148,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 384778,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·演武运动场",
+      "aliases": [
+        "演武运动场"
+      ],
+      "longitude": 118.09581596792992,
+      "latitude": 24.43495551369606,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385228,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·厦门大学幼儿园",
+      "aliases": [
+        "厦门大学幼儿园"
+      ],
+      "longitude": 118.10353891185747,
+      "latitude": 24.432713075214203,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 386899,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·芙蓉6",
+      "aliases": [
+        "芙蓉6"
+      ],
+      "longitude": 118.10151568712672,
+      "latitude": 24.435062332728684,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389914,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·芙蓉7",
+      "aliases": [
+        "芙蓉7"
+      ],
+      "longitude": 118.10161704952571,
+      "latitude": 24.434779605171975,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389920,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·化学报告厅",
+      "aliases": [
+        "化学报告厅"
+      ],
+      "longitude": 118.0943810114315,
+      "latitude": 24.43790977070308,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 387933,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·台湾研究院",
+      "aliases": [
+        "台湾研究院"
+      ],
+      "longitude": 118.09514581883451,
+      "latitude": 24.437609102588972,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 388347,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨食堂",
+      "aliases": [
+        "海滨食堂"
+      ],
+      "longitude": 118.10637757119287,
+      "latitude": 24.432336303186055,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 388625,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·法学院",
+      "aliases": [
+        "法学院"
+      ],
+      "longitude": 118.10741659647431,
+      "latitude": 24.43152254834073,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 388776,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·上弦场",
+      "aliases": [
+        "上弦场"
+      ],
+      "longitude": 118.09762454206447,
+      "latitude": 24.433441367261942,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389702,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·圣诺有色金属研究院大楼",
+      "aliases": [
+        "圣诺有色金属研究院大楼",
+        "圣诺有色金属研究院大"
+      ],
+      "longitude": 118.09770078755093,
+      "latitude": 24.43998309739272,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389839,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌峰楼",
+      "aliases": [
+        "凌峰楼",
+        "凌峰"
+      ],
+      "longitude": 118.09796671048849,
+      "latitude": 24.440799149953513,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389842,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·科学楼",
+      "aliases": [
+        "科学楼",
+        "科学"
+      ],
+      "longitude": 118.09816325387345,
+      "latitude": 24.44120017898903,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389845,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·特种材料实验室",
+      "aliases": [
+        "特种材料实验室"
+      ],
+      "longitude": 118.0985664211035,
+      "latitude": 24.441521224807367,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389848,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·厦大幼儿园（大南）",
+      "aliases": [
+        "厦大幼儿园（大南）",
+        "厦大幼儿园"
+      ],
+      "longitude": 118.09969698889876,
+      "latitude": 24.440422789533194,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389862,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·大学路派出所",
+      "aliases": [
+        "大学路派出所"
+      ],
+      "longitude": 118.09941768180505,
+      "latitude": 24.440779972698074,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389867,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·芙蓉12",
+      "aliases": [
+        "芙蓉12"
+      ],
+      "longitude": 118.1012552476754,
+      "latitude": 24.436054166007416,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389893,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·芙蓉10",
+      "aliases": [
+        "芙蓉10"
+      ],
+      "longitude": 118.1012741925428,
+      "latitude": 24.43572842320453,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389895,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·芙蓉5",
+      "aliases": [
+        "芙蓉5"
+      ],
+      "longitude": 118.10139178460366,
+      "latitude": 24.435401818251144,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389897,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·艺术学院",
+      "aliases": [
+        "艺术学院"
+      ],
+      "longitude": 118.10945730964369,
+      "latitude": 24.431037792746686,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389900,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·芙蓉8",
+      "aliases": [
+        "芙蓉8"
+      ],
+      "longitude": 118.10188485067744,
+      "latitude": 24.43497357222885,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389931,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·芙蓉9",
+      "aliases": [
+        "芙蓉9"
+      ],
+      "longitude": 118.10276239501997,
+      "latitude": 24.435071988121003,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389938,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·芙蓉11",
+      "aliases": [
+        "芙蓉11"
+      ],
+      "longitude": 118.10223109745704,
+      "latitude": 24.435270466564653,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389942,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·芙蓉餐厅",
+      "aliases": [
+        "芙蓉餐厅"
+      ],
+      "longitude": 118.10211962086595,
+      "latitude": 24.435743063996917,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389962,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·东苑餐厅",
+      "aliases": [
+        "东苑餐厅"
+      ],
+      "longitude": 118.10197248013225,
+      "latitude": 24.4361938682817,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389965,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·综合楼",
+      "aliases": [
+        "综合楼",
+        "综合"
+      ],
+      "longitude": 118.10178899237332,
+      "latitude": 24.436584936782886,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389971,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·芙蓉13",
+      "aliases": [
+        "芙蓉13"
+      ],
+      "longitude": 118.10242289630145,
+      "latitude": 24.436246195906428,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389988,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·国光2",
+      "aliases": [
+        "国光2"
+      ],
+      "longitude": 118.09873198790899,
+      "latitude": 24.44030246064319,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 386920,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·国光3",
+      "aliases": [
+        "国光3"
+      ],
+      "longitude": 118.09893560176391,
+      "latitude": 24.440655931919288,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 386922,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·颂恩楼（嘉庚三）",
+      "aliases": [
+        "颂恩楼（嘉庚三）",
+        "颂恩楼",
+        "颂恩",
+        "嘉庚三",
+        "嘉庚三号楼",
+        "嘉庚3",
+        "嘉庚3号楼"
+      ],
+      "longitude": 118.09698704284182,
+      "latitude": 24.43740036948143,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 377588,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·石井1",
+      "aliases": [
+        "石井1"
+      ],
+      "longitude": 118.10206708301547,
+      "latitude": 24.434615847518707,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389997,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·石井2",
+      "aliases": [
+        "石井2"
+      ],
+      "longitude": 118.10258638495469,
+      "latitude": 24.434777447551888,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 389999,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·石井3",
+      "aliases": [
+        "石井3"
+      ],
+      "longitude": 118.1030925912051,
+      "latitude": 24.43484182452665,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390001,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·石井6",
+      "aliases": [
+        "石井6"
+      ],
+      "longitude": 118.10307720815769,
+      "latitude": 24.43435512112172,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390006,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·石井7",
+      "aliases": [
+        "石井7"
+      ],
+      "longitude": 118.10339147313806,
+      "latitude": 24.435082750526682,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390008,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·后勤综合楼",
+      "aliases": [
+        "后勤综合楼",
+        "后勤综合"
+      ],
+      "longitude": 118.10298164196627,
+      "latitude": 24.4355011433149,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390010,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海韵教学楼",
+      "aliases": [
+        "海韵教学楼",
+        "海韵教学"
+      ],
+      "longitude": 118.11367626484878,
+      "latitude": 24.43050291811216,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390021,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海韵科研楼1",
+      "aliases": [
+        "海韵科研楼1"
+      ],
+      "longitude": 118.11191100681657,
+      "latitude": 24.430718069604815,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390027,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·曾厝垵学生公寓1期食堂",
+      "aliases": [
+        "曾厝垵学生公寓1期食堂"
+      ],
+      "longitude": 118.11542091629224,
+      "latitude": 24.437569877078523,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390040,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·曾厝垵学生公寓教学楼",
+      "aliases": [
+        "曾厝垵学生公寓教学楼",
+        "曾厝垵学生公寓教学"
+      ],
+      "longitude": 118.11582712535466,
+      "latitude": 24.437061254384624,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390034,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·曾厝垵学生公寓2期食堂",
+      "aliases": [
+        "曾厝垵学生公寓2期食堂"
+      ],
+      "longitude": 118.11730843482911,
+      "latitude": 24.438567260614242,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390043,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·石井4-5",
+      "aliases": [
+        "石井4-5"
+      ],
+      "longitude": 118.10247491835338,
+      "latitude": 24.43437924459446,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390004,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海韵办公楼",
+      "aliases": [
+        "海韵办公楼",
+        "海韵办公"
+      ],
+      "longitude": 118.11303881058137,
+      "latitude": 24.430025861112604,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390018,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海韵实验楼",
+      "aliases": [
+        "海韵实验楼",
+        "海韵实验"
+      ],
+      "longitude": 118.11303718260427,
+      "latitude": 24.430783269604326,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390022,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海韵科研楼2",
+      "aliases": [
+        "海韵科研楼2"
+      ],
+      "longitude": 118.11213457362845,
+      "latitude": 24.430290639443804,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390029,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·物理机电航空大楼",
+      "aliases": [
+        "物理机电航空大楼",
+        "物理机电航空大"
+      ],
+      "longitude": 118.11221918693565,
+      "latitude": 24.43113639608854,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390031,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·厦大花圃",
+      "aliases": [
+        "厦大花圃"
+      ],
+      "longitude": 118.10633164775061,
+      "latitude": 24.43695275888752,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390053,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·高尔夫教学练习场",
+      "aliases": [
+        "高尔夫教学练习场"
+      ],
+      "longitude": 118.10387595565476,
+      "latitude": 24.4410934490627,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390057,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·建南矿泉水公司",
+      "aliases": [
+        "建南矿泉水公司"
+      ],
+      "longitude": 118.10287137704216,
+      "latitude": 24.441183138193573,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390058,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·东区综合楼",
+      "aliases": [
+        "东区综合楼",
+        "东区综合"
+      ],
+      "longitude": 118.10941116149166,
+      "latitude": 24.431908937696456,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390544,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·国光1",
+      "aliases": [
+        "国光1"
+      ],
+      "longitude": 118.09850976608539,
+      "latitude": 24.43983450647469,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 386918,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·大南2",
+      "aliases": [
+        "大南2"
+      ],
+      "longitude": 118.09801694240213,
+      "latitude": 24.439438753406712,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390588,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·大南3",
+      "aliases": [
+        "大南3"
+      ],
+      "longitude": 118.09812701353212,
+      "latitude": 24.43958514569014,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390589,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·大南4",
+      "aliases": [
+        "大南4"
+      ],
+      "longitude": 118.09826887441437,
+      "latitude": 24.439387258288868,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390590,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·大南5",
+      "aliases": [
+        "大南5"
+      ],
+      "longitude": 118.09842163103423,
+      "latitude": 24.439561833719416,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390595,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·大南7",
+      "aliases": [
+        "大南7"
+      ],
+      "longitude": 118.09860814195366,
+      "latitude": 24.439473890757093,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390597,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·丰庭3",
+      "aliases": [
+        "丰庭3"
+      ],
+      "longitude": 118.09915745113153,
+      "latitude": 24.438553451124854,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390908,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·丰庭2",
+      "aliases": [
+        "丰庭2"
+      ],
+      "longitude": 118.09925078907776,
+      "latitude": 24.43880596241116,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390911,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·丰庭4",
+      "aliases": [
+        "丰庭4"
+      ],
+      "longitude": 118.09865205032332,
+      "latitude": 24.43914307545763,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390917,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·丰庭6",
+      "aliases": [
+        "丰庭6"
+      ],
+      "longitude": 118.09944936449602,
+      "latitude": 24.439122256030807,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390919,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·丰庭1",
+      "aliases": [
+        "丰庭1"
+      ],
+      "longitude": 118.09899445175762,
+      "latitude": 24.43932368011412,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390924,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·丰庭5",
+      "aliases": [
+        "丰庭5"
+      ],
+      "longitude": 118.09879116547239,
+      "latitude": 24.439540835426477,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 390926,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·笃行1",
+      "aliases": [
+        "笃行1"
+      ],
+      "longitude": 118.0989584296197,
+      "latitude": 24.439645071211352,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391075,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·笃行2",
+      "aliases": [
+        "笃行2"
+      ],
+      "longitude": 118.09919225474658,
+      "latitude": 24.439582912728447,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391077,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·笃行3",
+      "aliases": [
+        "笃行3"
+      ],
+      "longitude": 118.09950709018773,
+      "latitude": 24.439471851631602,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391080,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·大南14",
+      "aliases": [
+        "大南14"
+      ],
+      "longitude": 118.0994149258778,
+      "latitude": 24.439976739053755,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391091,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·大南15",
+      "aliases": [
+        "大南15"
+      ],
+      "longitude": 118.09918326518658,
+      "latitude": 24.43981618802298,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391093,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·大南16",
+      "aliases": [
+        "大南16"
+      ],
+      "longitude": 118.09964508891284,
+      "latitude": 24.439662952843868,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391095,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·敬贤1",
+      "aliases": [
+        "敬贤1"
+      ],
+      "longitude": 118.09953699774661,
+      "latitude": 24.438394850932674,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391213,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·敬贤2",
+      "aliases": [
+        "敬贤2"
+      ],
+      "longitude": 118.09961095376508,
+      "latitude": 24.438665018454607,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391215,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·敬贤3",
+      "aliases": [
+        "敬贤3"
+      ],
+      "longitude": 118.0996319761195,
+      "latitude": 24.43893364384659,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391218,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·敬贤4",
+      "aliases": [
+        "敬贤4"
+      ],
+      "longitude": 118.09983220610951,
+      "latitude": 24.43943948117053,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391405,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·敬贤5",
+      "aliases": [
+        "敬贤5"
+      ],
+      "longitude": 118.10012703652473,
+      "latitude": 24.439491488264714,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391407,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·敬贤7",
+      "aliases": [
+        "敬贤7"
+      ],
+      "longitude": 118.10014876107851,
+      "latitude": 24.438768141909556,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391409,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·敬贤8",
+      "aliases": [
+        "敬贤8"
+      ],
+      "longitude": 118.10022042709943,
+      "latitude": 24.438974272408878,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391411,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·敬贤9",
+      "aliases": [
+        "敬贤9"
+      ],
+      "longitude": 118.10016604324807,
+      "latitude": 24.43919364806687,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391413,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·敬贤10",
+      "aliases": [
+        "敬贤10"
+      ],
+      "longitude": 118.10036785967202,
+      "latitude": 24.43942148809993,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391417,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·敬贤11",
+      "aliases": [
+        "敬贤11"
+      ],
+      "longitude": 118.10023857918844,
+      "latitude": 24.439788550095166,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391420,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·敬贤12",
+      "aliases": [
+        "敬贤12"
+      ],
+      "longitude": 118.10036443230268,
+      "latitude": 24.439962527180008,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391424,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·敬贤13",
+      "aliases": [
+        "敬贤13"
+      ],
+      "longitude": 118.0999942179285,
+      "latitude": 24.440241441779172,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391426,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·敬贤14",
+      "aliases": [
+        "敬贤14"
+      ],
+      "longitude": 118.10025189330923,
+      "latitude": 24.440147672340096,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391428,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·厦大信箱",
+      "aliases": [
+        "厦大信箱"
+      ],
+      "longitude": 118.09357968716108,
+      "latitude": 24.437526472223347,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 391447,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·大南校门",
+      "aliases": [
+        "大南校门"
+      ],
+      "longitude": 118.09759004365685,
+      "latitude": 24.438972047064404,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 392865,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·群贤校门",
+      "aliases": [
+        "群贤校门"
+      ],
+      "longitude": 118.09351630852524,
+      "latitude": 24.437135003543155,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 392867,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·成枫楼（嘉庚二）",
+      "aliases": [
+        "成枫楼（嘉庚二）",
+        "成枫楼",
+        "成枫",
+        "嘉庚二",
+        "嘉庚二号楼",
+        "嘉庚2",
+        "嘉庚2号楼"
+      ],
+      "longitude": 118.09736121920298,
+      "latitude": 24.437766506526664,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 382421,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·南校门",
+      "aliases": [
+        "南校门"
+      ],
+      "longitude": 118.09423428644016,
+      "latitude": 24.43457466115212,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 392902,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·南侧门（原化工校门）",
+      "aliases": [
+        "南侧门（原化工校门）",
+        "南侧门"
+      ],
+      "longitude": 118.09510551745149,
+      "latitude": 24.433968747802403,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 392905,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城校门",
+      "aliases": [
+        "白城校门"
+      ],
+      "longitude": 118.10207822623039,
+      "latitude": 24.433104225061506,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 392907,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨校门",
+      "aliases": [
+        "海滨校门"
+      ],
+      "longitude": 118.10576092227325,
+      "latitude": 24.43143135126511,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 392909,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区校门",
+      "aliases": [
+        "海滨东区校门"
+      ],
+      "longitude": 118.11019653495987,
+      "latitude": 24.429832651457737,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 392911,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海韵园校门",
+      "aliases": [
+        "海韵园校门"
+      ],
+      "longitude": 118.11429488424614,
+      "latitude": 24.429992490291518,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 392913,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海韵学生公寓大门",
+      "aliases": [
+        "海韵学生公寓大门"
+      ],
+      "longitude": 118.11658633476674,
+      "latitude": 24.437649117330047,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 392915,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·勤业1-3",
+      "aliases": [
+        "勤业1-3"
+      ],
+      "longitude": 118.10080391841228,
+      "latitude": 24.437875652582285,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 393337,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·勤业5",
+      "aliases": [
+        "勤业5"
+      ],
+      "longitude": 118.10082087069298,
+      "latitude": 24.438306436918147,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 393339,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·勤业4",
+      "aliases": [
+        "勤业4"
+      ],
+      "longitude": 118.10092319221366,
+      "latitude": 24.438556459820354,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 393342,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·勤业6",
+      "aliases": [
+        "勤业6"
+      ],
+      "longitude": 118.10133495377607,
+      "latitude": 24.43860824950935,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 393344,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·勤业7",
+      "aliases": [
+        "勤业7"
+      ],
+      "longitude": 118.1011707842527,
+      "latitude": 24.43896230321949,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 393347,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌峰电镜楼",
+      "aliases": [
+        "凌峰电镜楼",
+        "凌峰电镜"
+      ],
+      "longitude": 118.09775843972187,
+      "latitude": 24.4405475007435,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 393349,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·华侨之家",
+      "aliases": [
+        "华侨之家"
+      ],
+      "longitude": 118.10135278186158,
+      "latitude": 24.437152917381617,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 393354,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌云1",
+      "aliases": [
+        "凌云1"
+      ],
+      "longitude": 118.1017383735628,
+      "latitude": 24.437477515639934,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 393362,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌云2",
+      "aliases": [
+        "凌云2"
+      ],
+      "longitude": 118.10172780105682,
+      "latitude": 24.437731430307288,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 393364,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌云3",
+      "aliases": [
+        "凌云3"
+      ],
+      "longitude": 118.10258476929062,
+      "latitude": 24.437809841157424,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 393366,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌云6",
+      "aliases": [
+        "凌云6"
+      ],
+      "longitude": 118.10186322083524,
+      "latitude": 24.438024337249523,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 393368,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌云5",
+      "aliases": [
+        "凌云5"
+      ],
+      "longitude": 118.10074841223849,
+      "latitude": 24.43936583415283,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 393381,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌云4",
+      "aliases": [
+        "凌云4"
+      ],
+      "longitude": 118.10136804773737,
+      "latitude": 24.439537490350013,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 393383,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌云7",
+      "aliases": [
+        "凌云7"
+      ],
+      "longitude": 118.10186271921128,
+      "latitude": 24.439467464344922,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 393385,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌云8",
+      "aliases": [
+        "凌云8"
+      ],
+      "longitude": 118.10064181935593,
+      "latitude": 24.439679669917247,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 394429,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌云9",
+      "aliases": [
+        "凌云9"
+      ],
+      "longitude": 118.10100861561449,
+      "latitude": 24.43978245475916,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 394432,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌云10",
+      "aliases": [
+        "凌云10"
+      ],
+      "longitude": 118.10162972767097,
+      "latitude": 24.44003670776724,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 394444,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区01（地图编号504595）",
+      "aliases": [
+        "海滨东区01"
+      ],
+      "longitude": 118.10754303230453,
+      "latitude": 24.432749086918996,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 504595,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区02",
+      "aliases": [
+        "海滨东区02"
+      ],
+      "longitude": 118.10754343209129,
+      "latitude": 24.433022960589035,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 504606,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区03",
+      "aliases": [
+        "海滨东区03"
+      ],
+      "longitude": 118.10757026429513,
+      "latitude": 24.433257890186418,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 504663,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区04",
+      "aliases": [
+        "海滨东区04"
+      ],
+      "longitude": 118.10775780034925,
+      "latitude": 24.4327692559501,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 504665,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区01（地图编号510625）",
+      "aliases": [
+        "海滨东区01"
+      ],
+      "longitude": 118.10760977179524,
+      "latitude": 24.43318159156926,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510625,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区07",
+      "aliases": [
+        "海滨东区07"
+      ],
+      "longitude": 118.10818018486219,
+      "latitude": 24.43265272522681,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510632,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区15",
+      "aliases": [
+        "海滨东区15"
+      ],
+      "longitude": 118.10967636399317,
+      "latitude": 24.432119917469414,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510649,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区08",
+      "aliases": [
+        "海滨东区08"
+      ],
+      "longitude": 118.10817482952069,
+      "latitude": 24.432895449945427,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510630,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区06",
+      "aliases": [
+        "海滨东区06"
+      ],
+      "longitude": 118.10815280067715,
+      "latitude": 24.432426270499555,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510634,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区09",
+      "aliases": [
+        "海滨东区09"
+      ],
+      "longitude": 118.10801486411003,
+      "latitude": 24.43319900430894,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510628,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区10",
+      "aliases": [
+        "海滨东区10"
+      ],
+      "longitude": 118.10842735585294,
+      "latitude": 24.432428532881836,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510636,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区11",
+      "aliases": [
+        "海滨东区11"
+      ],
+      "longitude": 118.10864041988617,
+      "latitude": 24.432662739936752,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510638,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区12",
+      "aliases": [
+        "海滨东区12"
+      ],
+      "longitude": 118.10912608115137,
+      "latitude": 24.43239071456484,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510640,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区13",
+      "aliases": [
+        "海滨东区13"
+      ],
+      "longitude": 118.10906777976794,
+      "latitude": 24.432637078302896,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510642,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区16",
+      "aliases": [
+        "海滨东区16"
+      ],
+      "longitude": 118.10947899449019,
+      "latitude": 24.432343367174447,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510645,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区14",
+      "aliases": [
+        "海滨东区14"
+      ],
+      "longitude": 118.10957592928804,
+      "latitude": 24.431936477100983,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510652,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区17",
+      "aliases": [
+        "海滨东区17"
+      ],
+      "longitude": 118.10958461676518,
+      "latitude": 24.43259495818075,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510647,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区18",
+      "aliases": [
+        "海滨东区18"
+      ],
+      "longitude": 118.11023681790056,
+      "latitude": 24.43188140902769,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510655,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区19",
+      "aliases": [
+        "海滨东区19"
+      ],
+      "longitude": 118.11021777117782,
+      "latitude": 24.432192287240618,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510657,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区20",
+      "aliases": [
+        "海滨东区20"
+      ],
+      "longitude": 118.11025028610072,
+      "latitude": 24.432452201739643,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510659,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区21",
+      "aliases": [
+        "海滨东区21"
+      ],
+      "longitude": 118.11020206537245,
+      "latitude": 24.432696223241216,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510661,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区05",
+      "aliases": [
+        "海滨东区05"
+      ],
+      "longitude": 118.10777842229055,
+      "latitude": 24.433004916257552,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510622,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区22",
+      "aliases": [
+        "海滨东区22"
+      ],
+      "longitude": 118.11069709812966,
+      "latitude": 24.43190873918264,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510663,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区23",
+      "aliases": [
+        "海滨东区23"
+      ],
+      "longitude": 118.11070241111082,
+      "latitude": 24.432374222450598,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510665,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区24",
+      "aliases": [
+        "海滨东区24"
+      ],
+      "longitude": 118.11062024728079,
+      "latitude": 24.432656451029494,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510668,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区27",
+      "aliases": [
+        "海滨东区27"
+      ],
+      "longitude": 118.11129265493145,
+      "latitude": 24.43195553284827,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510679,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区25",
+      "aliases": [
+        "海滨东区25"
+      ],
+      "longitude": 118.1108979780957,
+      "latitude": 24.432909201806105,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510670,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区28",
+      "aliases": [
+        "海滨东区28"
+      ],
+      "longitude": 118.11114982634996,
+      "latitude": 24.432182553066504,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510677,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区29",
+      "aliases": [
+        "海滨东区29"
+      ],
+      "longitude": 118.11157586258338,
+      "latitude": 24.43225357457039,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510674,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区26",
+      "aliases": [
+        "海滨东区26"
+      ],
+      "longitude": 118.110968990466,
+      "latitude": 24.431977675453204,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510682,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨东区30",
+      "aliases": [
+        "海滨东区30"
+      ],
+      "longitude": 118.1112910176916,
+      "latitude": 24.432656531302122,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510672,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨51",
+      "aliases": [
+        "海滨51"
+      ],
+      "longitude": 118.10715817961608,
+      "latitude": 24.43272315958334,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510828,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨52",
+      "aliases": [
+        "海滨52"
+      ],
+      "longitude": 118.10685562434753,
+      "latitude": 24.432741480345705,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510829,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨53",
+      "aliases": [
+        "海滨53"
+      ],
+      "longitude": 118.10717263948573,
+      "latitude": 24.432949368655166,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510830,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨54",
+      "aliases": [
+        "海滨54"
+      ],
+      "longitude": 118.10686948242954,
+      "latitude": 24.432978657960497,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510831,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨55",
+      "aliases": [
+        "海滨55"
+      ],
+      "longitude": 118.10701447943808,
+      "latitude": 24.433220017389864,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510832,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·博士后公寓1",
+      "aliases": [
+        "博士后公寓1"
+      ],
+      "longitude": 118.10552677246272,
+      "latitude": 24.434381489979735,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510838,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·博士后公寓2",
+      "aliases": [
+        "博士后公寓2"
+      ],
+      "longitude": 118.10519075438452,
+      "latitude": 24.434139033612446,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510839,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·博士后公寓3",
+      "aliases": [
+        "博士后公寓3"
+      ],
+      "longitude": 118.10545050359161,
+      "latitude": 24.43390325574928,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510840,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·博士后公寓4",
+      "aliases": [
+        "博士后公寓4"
+      ],
+      "longitude": 118.10547400439674,
+      "latitude": 24.43372886734793,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510841,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨15",
+      "aliases": [
+        "海滨15"
+      ],
+      "longitude": 118.10551804511874,
+      "latitude": 24.43417777213677,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510843,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨50",
+      "aliases": [
+        "海滨50"
+      ],
+      "longitude": 118.10596190949803,
+      "latitude": 24.434104212505993,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510847,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨49",
+      "aliases": [
+        "海滨49"
+      ],
+      "longitude": 118.10574893587528,
+      "latitude": 24.433904636341204,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510848,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨48",
+      "aliases": [
+        "海滨48"
+      ],
+      "longitude": 118.10606106042161,
+      "latitude": 24.433929572775305,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510849,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨47",
+      "aliases": [
+        "海滨47"
+      ],
+      "longitude": 118.10577049570173,
+      "latitude": 24.433711207233564,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510851,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨46",
+      "aliases": [
+        "海滨46"
+      ],
+      "longitude": 118.10603272834993,
+      "latitude": 24.433702255417508,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510852,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨45",
+      "aliases": [
+        "海滨45"
+      ],
+      "longitude": 118.10452768113049,
+      "latitude": 24.433678946662674,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510854,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨44",
+      "aliases": [
+        "海滨44"
+      ],
+      "longitude": 118.1047948043705,
+      "latitude": 24.433852946721977,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510855,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨43",
+      "aliases": [
+        "海滨43"
+      ],
+      "longitude": 118.10512024453641,
+      "latitude": 24.43390727543008,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510856,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨42",
+      "aliases": [
+        "海滨42"
+      ],
+      "longitude": 118.10454101087015,
+      "latitude": 24.43347226960777,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510857,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨41",
+      "aliases": [
+        "海滨41"
+      ],
+      "longitude": 118.10485733381023,
+      "latitude": 24.433656495570013,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510860,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨40",
+      "aliases": [
+        "海滨40"
+      ],
+      "longitude": 118.10518023120972,
+      "latitude": 24.433702752114762,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510861,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨39",
+      "aliases": [
+        "海滨39"
+      ],
+      "longitude": 118.10574335396024,
+      "latitude": 24.433455311760333,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510862,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨38",
+      "aliases": [
+        "海滨38"
+      ],
+      "longitude": 118.10551510961915,
+      "latitude": 24.43344337194413,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510863,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨37",
+      "aliases": [
+        "海滨37"
+      ],
+      "longitude": 118.10590113824605,
+      "latitude": 24.433282208793948,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510864,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨36",
+      "aliases": [
+        "海滨36"
+      ],
+      "longitude": 118.10565957828538,
+      "latitude": 24.433240876703714,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510865,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨35",
+      "aliases": [
+        "海滨35"
+      ],
+      "longitude": 118.10543124353393,
+      "latitude": 24.433194305997326,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510867,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨34",
+      "aliases": [
+        "海滨34"
+      ],
+      "longitude": 118.10522686163955,
+      "latitude": 24.43314650134031,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510868,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨33",
+      "aliases": [
+        "海滨33"
+      ],
+      "longitude": 118.10579211572832,
+      "latitude": 24.433056313883732,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510869,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨32",
+      "aliases": [
+        "海滨32"
+      ],
+      "longitude": 118.10559217237386,
+      "latitude": 24.433018306651356,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510870,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨31",
+      "aliases": [
+        "海滨31"
+      ],
+      "longitude": 118.10539033324591,
+      "latitude": 24.43297857415775,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510871,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨30",
+      "aliases": [
+        "海滨30"
+      ],
+      "longitude": 118.10519861997824,
+      "latitude": 24.43295381487267,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510872,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨29",
+      "aliases": [
+        "海滨29"
+      ],
+      "longitude": 118.10561687675437,
+      "latitude": 24.432821981164132,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510874,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨28",
+      "aliases": [
+        "海滨28"
+      ],
+      "longitude": 118.10536838069271,
+      "latitude": 24.432780094930997,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510875,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨27",
+      "aliases": [
+        "海滨27"
+      ],
+      "longitude": 118.10502773197874,
+      "latitude": 24.43342017211925,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510876,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨26",
+      "aliases": [
+        "海滨26"
+      ],
+      "longitude": 118.10476366288242,
+      "latitude": 24.433208644790263,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510877,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨25",
+      "aliases": [
+        "海滨25"
+      ],
+      "longitude": 118.10446286777176,
+      "latitude": 24.433176744478722,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510878,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨24",
+      "aliases": [
+        "海滨24"
+      ],
+      "longitude": 118.10423518001318,
+      "latitude": 24.43313652067446,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510879,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨23",
+      "aliases": [
+        "海滨23"
+      ],
+      "longitude": 118.10399486883313,
+      "latitude": 24.433090566943413,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510880,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨22",
+      "aliases": [
+        "海滨22"
+      ],
+      "longitude": 118.10467867304538,
+      "latitude": 24.432997544759452,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510881,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨21",
+      "aliases": [
+        "海滨21"
+      ],
+      "longitude": 118.10448312302555,
+      "latitude": 24.43295201950668,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510882,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨20",
+      "aliases": [
+        "海滨20"
+      ],
+      "longitude": 118.10426486892914,
+      "latitude": 24.43290310656372,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510883,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨19",
+      "aliases": [
+        "海滨19"
+      ],
+      "longitude": 118.1040560937002,
+      "latitude": 24.432862819927102,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510884,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨18",
+      "aliases": [
+        "海滨18"
+      ],
+      "longitude": 118.10537637026158,
+      "latitude": 24.431921068742987,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510885,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨17",
+      "aliases": [
+        "海滨17"
+      ],
+      "longitude": 118.10549931018653,
+      "latitude": 24.432165387384238,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510886,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨16",
+      "aliases": [
+        "海滨16"
+      ],
+      "longitude": 118.1055926551391,
+      "latitude": 24.432423079637324,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510887,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨10",
+      "aliases": [
+        "海滨10"
+      ],
+      "longitude": 118.10504708769213,
+      "latitude": 24.431896072549257,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510888,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨01",
+      "aliases": [
+        "海滨01"
+      ],
+      "longitude": 118.10368412125428,
+      "latitude": 24.432398629768024,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510889,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨02",
+      "aliases": [
+        "海滨02"
+      ],
+      "longitude": 118.10411683790011,
+      "latitude": 24.4324930051314,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510892,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨03",
+      "aliases": [
+        "海滨03"
+      ],
+      "longitude": 118.10440320422623,
+      "latitude": 24.432552081144998,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510893,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨04",
+      "aliases": [
+        "海滨04"
+      ],
+      "longitude": 118.10458119502755,
+      "latitude": 24.432391609150535,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510894,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨05",
+      "aliases": [
+        "海滨05"
+      ],
+      "longitude": 118.10435286027604,
+      "latitude": 24.432345038444176,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510895,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨06",
+      "aliases": [
+        "海滨06"
+      ],
+      "longitude": 118.10403870434061,
+      "latitude": 24.43226643041354,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510907,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨07",
+      "aliases": [
+        "海滨07"
+      ],
+      "longitude": 118.10428291159809,
+      "latitude": 24.432114396228464,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510908,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨08",
+      "aliases": [
+        "海滨08"
+      ],
+      "longitude": 118.10452179317684,
+      "latitude": 24.432095709820068,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510909,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨09",
+      "aliases": [
+        "海滨09"
+      ],
+      "longitude": 118.10478879492126,
+      "latitude": 24.43198169421533,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510910,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨11",
+      "aliases": [
+        "海滨11"
+      ],
+      "longitude": 118.10482248375695,
+      "latitude": 24.43232904857036,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510911,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨12",
+      "aliases": [
+        "海滨12"
+      ],
+      "longitude": 118.10500055084862,
+      "latitude": 24.432439276794874,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510912,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨13",
+      "aliases": [
+        "海滨13"
+      ],
+      "longitude": 118.1048306093133,
+      "latitude": 24.432543734956262,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510913,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海滨14",
+      "aliases": [
+        "海滨14"
+      ],
+      "longitude": 118.10469303154275,
+      "latitude": 24.432729468894458,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 510914,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城07",
+      "aliases": [
+        "白城07"
+      ],
+      "longitude": 118.10168616148013,
+      "latitude": 24.43332736822041,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511303,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城08",
+      "aliases": [
+        "白城08"
+      ],
+      "longitude": 118.10166427109715,
+      "latitude": 24.433635658541398,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511304,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城09",
+      "aliases": [
+        "白城09"
+      ],
+      "longitude": 118.10146271732054,
+      "latitude": 24.433463749389354,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511305,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城10",
+      "aliases": [
+        "白城10"
+      ],
+      "longitude": 118.10124419199286,
+      "latitude": 24.433310943776014,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511306,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城11",
+      "aliases": [
+        "白城11"
+      ],
+      "longitude": 118.10122276778202,
+      "latitude": 24.433556319218845,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511307,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城12",
+      "aliases": [
+        "白城12"
+      ],
+      "longitude": 118.1009791764323,
+      "latitude": 24.433461315532135,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511308,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城13",
+      "aliases": [
+        "白城13"
+      ],
+      "longitude": 118.10075496378425,
+      "latitude": 24.43330333413494,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511309,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城14",
+      "aliases": [
+        "白城14"
+      ],
+      "longitude": 118.10055435931673,
+      "latitude": 24.433495049329316,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511311,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城15",
+      "aliases": [
+        "白城15"
+      ],
+      "longitude": 118.10035918505861,
+      "latitude": 24.433351978308288,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511312,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城16",
+      "aliases": [
+        "白城16"
+      ],
+      "longitude": 118.10010540852335,
+      "latitude": 24.43346075529687,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511313,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城17",
+      "aliases": [
+        "白城17"
+      ],
+      "longitude": 118.09979435193674,
+      "latitude": 24.433361935441617,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511314,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城18",
+      "aliases": [
+        "白城18"
+      ],
+      "longitude": 118.10185526392655,
+      "latitude": 24.434108894137047,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511316,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城19",
+      "aliases": [
+        "白城19"
+      ],
+      "longitude": 118.1020706136149,
+      "latitude": 24.434011211356,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511318,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城20",
+      "aliases": [
+        "白城20"
+      ],
+      "longitude": 118.10226644898609,
+      "latitude": 24.433924559950306,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511319,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城25",
+      "aliases": [
+        "白城25"
+      ],
+      "longitude": 118.10243777491752,
+      "latitude": 24.433867426483296,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511320,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城26",
+      "aliases": [
+        "白城26"
+      ],
+      "longitude": 118.10261654832726,
+      "latitude": 24.43376524772615,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511321,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城21",
+      "aliases": [
+        "白城21"
+      ],
+      "longitude": 118.1018338397156,
+      "latitude": 24.434354269579877,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511322,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城22",
+      "aliases": [
+        "白城22"
+      ],
+      "longitude": 118.10203226305833,
+      "latitude": 24.434293005782628,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511323,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城23",
+      "aliases": [
+        "白城23"
+      ],
+      "longitude": 118.10222874542234,
+      "latitude": 24.43421270127903,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511324,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城24",
+      "aliases": [
+        "白城24"
+      ],
+      "longitude": 118.10243905478319,
+      "latitude": 24.43411618961634,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511325,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城27",
+      "aliases": [
+        "白城27"
+      ],
+      "longitude": 118.10258065012664,
+      "latitude": 24.434020483426004,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511326,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城28",
+      "aliases": [
+        "白城28"
+      ],
+      "longitude": 118.1028015967251,
+      "latitude": 24.433893345538742,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511327,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城29",
+      "aliases": [
+        "白城29"
+      ],
+      "longitude": 118.10266868352045,
+      "latitude": 24.43417545412695,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511328,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城30",
+      "aliases": [
+        "白城30"
+      ],
+      "longitude": 118.10285878636591,
+      "latitude": 24.434066311492394,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511329,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·白城31",
+      "aliases": [
+        "白城31"
+      ],
+      "longitude": 118.10304070432977,
+      "latitude": 24.433961236355664,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511330,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌峰01",
+      "aliases": [
+        "凌峰01"
+      ],
+      "longitude": 118.09902979170596,
+      "latitude": 24.441206041022163,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511340,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌峰02",
+      "aliases": [
+        "凌峰02"
+      ],
+      "longitude": 118.09903943727403,
+      "latitude": 24.441519998437663,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511341,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌峰03",
+      "aliases": [
+        "凌峰03"
+      ],
+      "longitude": 118.09923712321353,
+      "latitude": 24.44141775684816,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511342,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌峰04",
+      "aliases": [
+        "凌峰04"
+      ],
+      "longitude": 118.0995995154197,
+      "latitude": 24.441379035764108,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511343,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌峰05",
+      "aliases": [
+        "凌峰05"
+      ],
+      "longitude": 118.09986277082243,
+      "latitude": 24.44127888508192,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511344,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌峰06",
+      "aliases": [
+        "凌峰06"
+      ],
+      "longitude": 118.1000735915606,
+      "latitude": 24.44113677398611,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511345,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌峰07",
+      "aliases": [
+        "凌峰07"
+      ],
+      "longitude": 118.10001811687243,
+      "latitude": 24.44089627151343,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511346,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌峰08",
+      "aliases": [
+        "凌峰08"
+      ],
+      "longitude": 118.10025931519152,
+      "latitude": 24.4407990800431,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511348,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌峰09",
+      "aliases": [
+        "凌峰09"
+      ],
+      "longitude": 118.10000314562552,
+      "latitude": 24.44071566187464,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511349,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·凌峰10",
+      "aliases": [
+        "凌峰10"
+      ],
+      "longitude": 118.1002191423068,
+      "latitude": 24.440624325995778,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 511350,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·东苑球场",
+      "aliases": [
+        "东苑球场"
+      ],
+      "longitude": 118.10113995079911,
+      "latitude": 24.43649084586807,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 1441416,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·图书馆",
+      "aliases": [
+        "图书馆"
+      ],
+      "longitude": 118.04762245330966,
+      "latitude": 24.367020632478336,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 377598,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·教师公寓",
+      "aliases": [
+        "教师公寓"
+      ],
+      "longitude": 118.04680242278977,
+      "latitude": 24.356943694887242,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385004,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·幼儿园",
+      "aliases": [
+        "幼儿园"
+      ],
+      "longitude": 118.0477608811247,
+      "latitude": 24.35819133645777,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385007,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·南光园区",
+      "aliases": [
+        "南光园区"
+      ],
+      "longitude": 118.0471371227489,
+      "latitude": 24.360752799957517,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385014,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·南安园区",
+      "aliases": [
+        "南安园区"
+      ],
+      "longitude": 118.04779939753354,
+      "latitude": 24.36005107867141,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385012,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·南区食堂、超市",
+      "aliases": [
+        "南区食堂、超市"
+      ],
+      "longitude": 118.04792364670408,
+      "latitude": 24.36200555517366,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385017,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·公共教学楼1号楼",
+      "aliases": [
+        "公共教学楼1号楼",
+        "公共教学楼1号"
+      ],
+      "longitude": 118.04610097248201,
+      "latitude": 24.364812346244243,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385021,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·主楼群1号楼",
+      "aliases": [
+        "主楼群1号楼",
+        "主楼群1号"
+      ],
+      "longitude": 118.04795742813468,
+      "latitude": 24.365613724773432,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385024,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·人文大楼",
+      "aliases": [
+        "人文大楼",
+        "人文大"
+      ],
+      "longitude": 118.04602556355343,
+      "latitude": 24.36971611059466,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385035,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·主楼群2号楼",
+      "aliases": [
+        "主楼群2号楼",
+        "主楼群2号"
+      ],
+      "longitude": 118.04782591336135,
+      "latitude": 24.36624104453353,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385026,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·主楼群4号楼",
+      "aliases": [
+        "主楼群4号楼",
+        "主楼群4号"
+      ],
+      "longitude": 118.04782805508876,
+      "latitude": 24.367840940714963,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385030,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·主楼群5号楼",
+      "aliases": [
+        "主楼群5号楼",
+        "主楼群5号"
+      ],
+      "longitude": 118.04801794816746,
+      "latitude": 24.36846346689081,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385032,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·经管大楼",
+      "aliases": [
+        "经管大楼",
+        "经管大"
+      ],
+      "longitude": 118.04557647008477,
+      "latitude": 24.368698020053195,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385037,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·理工大楼",
+      "aliases": [
+        "理工大楼",
+        "理工大"
+      ],
+      "longitude": 118.04471629475404,
+      "latitude": 24.36762169494788,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385039,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·生化大楼",
+      "aliases": [
+        "生化大楼",
+        "生化大"
+      ],
+      "longitude": 118.04330472803679,
+      "latitude": 24.367288483637005,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385041,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·中区食堂",
+      "aliases": [
+        "中区食堂"
+      ],
+      "longitude": 118.04526548163375,
+      "latitude": 24.37063744032981,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385043,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·中区超市",
+      "aliases": [
+        "中区超市"
+      ],
+      "longitude": 118.04492568124209,
+      "latitude": 24.370963723875953,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385045,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·丰庭园区",
+      "aliases": [
+        "丰庭园区"
+      ],
+      "longitude": 118.0440190002522,
+      "latitude": 24.37155450616911,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385049,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·学生活动中心",
+      "aliases": [
+        "学生活动中心"
+      ],
+      "longitude": 118.04351485839072,
+      "latitude": 24.37282749509584,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385052,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·若谷园区",
+      "aliases": [
+        "若谷园区"
+      ],
+      "longitude": 118.04319609097553,
+      "latitude": 24.375755647155593,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385054,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·芙蓉园区",
+      "aliases": [
+        "芙蓉园区"
+      ],
+      "longitude": 118.04518135308427,
+      "latitude": 24.376023920134294,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385056,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·凌云园区",
+      "aliases": [
+        "凌云园区"
+      ],
+      "longitude": 118.04571304865351,
+      "latitude": 24.377440606616325,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385059,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·笃行园区",
+      "aliases": [
+        "笃行园区"
+      ],
+      "longitude": 118.04613161164997,
+      "latitude": 24.37682193826874,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385061,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·映雪园区（地图编号385063）",
+      "aliases": [
+        "映雪园区"
+      ],
+      "longitude": 118.04605179931565,
+      "latitude": 24.37621423701325,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385063,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·映雪园区（地图编号385064）",
+      "aliases": [
+        "映雪园区"
+      ],
+      "longitude": 118.04605179931565,
+      "latitude": 24.37621423701325,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385064,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·映雪园区（地图编号385065）",
+      "aliases": [
+        "映雪园区"
+      ],
+      "longitude": 118.04605179931565,
+      "latitude": 24.37621423701325,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385065,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·博学园区",
+      "aliases": [
+        "博学园区"
+      ],
+      "longitude": 118.04698638026395,
+      "latitude": 24.37690141219452,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385067,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·囊萤园区",
+      "aliases": [
+        "囊萤园区"
+      ],
+      "longitude": 118.04698551096618,
+      "latitude": 24.37614258457331,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385069,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·北区超市",
+      "aliases": [
+        "北区超市"
+      ],
+      "longitude": 118.0470886379884,
+      "latitude": 24.375478399495258,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385071,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·勤业园区",
+      "aliases": [
+        "勤业园区"
+      ],
+      "longitude": 118.0476855821251,
+      "latitude": 24.37617407366225,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385074,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·校区宾馆",
+      "aliases": [
+        "校区宾馆"
+      ],
+      "longitude": 118.04774918537134,
+      "latitude": 24.375176629581212,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385076,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·游泳馆",
+      "aliases": [
+        "游泳馆"
+      ],
+      "longitude": 118.04815002517199,
+      "latitude": 24.37400298849324,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385082,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·风雨球馆",
+      "aliases": [
+        "风雨球馆"
+      ],
+      "longitude": 118.04816988645877,
+      "latitude": 24.37339309447234,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385085,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "ZhangZhou",
+      "name": "漳州校区·北区食堂",
+      "aliases": [
+        "北区食堂"
+      ],
+      "longitude": 118.04624562905332,
+      "latitude": 24.375380420215983,
+      "source_url": "https://map.xmu.edu.cn/openmap/mapi/bd/v1/list",
+      "source_id": 385089,
+      "source_campus_id": 377509
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·西部片区2号",
+      "longitude": 118.299904,
+      "latitude": 24.604252,
+      "aliases": [
+        "西部片区2号"
+      ],
+      "source_url": "https://github.com/vintcessun/xmu_assistant_sign_bot/blob/5dc956b0fb80ed693ae5c2b4f2b6c823c74b3bee/src/api/xmu_service/location.rs",
+      "source_id": null,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·一期田径场",
+      "longitude": 118.31887,
+      "latitude": 24.608957,
+      "aliases": [
+        "一期田径场"
+      ],
+      "source_url": "https://github.com/vintcessun/xmu_assistant_sign_bot/blob/5dc956b0fb80ed693ae5c2b4f2b6c823c74b3bee/src/api/xmu_service/location.rs",
+      "source_id": null,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·西部片区4号",
+      "longitude": 118.300186,
+      "latitude": 24.60527,
+      "aliases": [
+        "西部片区4号"
+      ],
+      "source_url": "https://github.com/vintcessun/xmu_assistant_sign_bot/blob/5dc956b0fb80ed693ae5c2b4f2b6c823c74b3bee/src/api/xmu_service/location.rs",
+      "source_id": null,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·爱秋体育馆",
+      "longitude": 118.31051,
+      "latitude": 24.611519,
+      "aliases": [
+        "爱秋体育馆"
+      ],
+      "source_url": "https://github.com/vintcessun/xmu_assistant_sign_bot/blob/5dc956b0fb80ed693ae5c2b4f2b6c823c74b3bee/src/api/xmu_service/location.rs",
+      "source_id": null,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·新工科",
+      "longitude": 118.3103,
+      "latitude": 24.61468,
+      "aliases": [
+        "新工科"
+      ],
+      "source_url": "https://github.com/vintcessun/xmu_assistant_sign_bot/blob/5dc956b0fb80ed693ae5c2b4f2b6c823c74b3bee/src/api/xmu_service/location.rs",
+      "source_id": null,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·教学楼5号",
+      "longitude": 118.30905,
+      "latitude": 24.60489,
+      "aliases": [
+        "教学楼5号"
+      ],
+      "source_url": "https://github.com/vintcessun/xmu_assistant_sign_bot/blob/5dc956b0fb80ed693ae5c2b4f2b6c823c74b3bee/src/api/xmu_service/location.rs",
+      "source_id": null,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·二期田径场",
+      "longitude": 118.302666,
+      "latitude": 24.609406,
+      "aliases": [
+        "二期田径场"
+      ],
+      "source_url": "https://github.com/vintcessun/xmu_assistant_sign_bot/blob/5dc956b0fb80ed693ae5c2b4f2b6c823c74b3bee/src/api/xmu_service/location.rs",
+      "source_id": null,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·西部片区正信",
+      "longitude": 118.30039,
+      "latitude": 24.603584,
+      "aliases": [
+        "西部片区正信"
+      ],
+      "source_url": "https://github.com/vintcessun/xmu_assistant_sign_bot/blob/5dc956b0fb80ed693ae5c2b4f2b6c823c74b3bee/src/api/xmu_service/location.rs",
+      "source_id": null,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·西部片区益海嘉里",
+      "longitude": 118.300995,
+      "latitude": 24.604538,
+      "aliases": [
+        "西部片区益海嘉里"
+      ],
+      "source_url": "https://github.com/vintcessun/xmu_assistant_sign_bot/blob/5dc956b0fb80ed693ae5c2b4f2b6c823c74b3bee/src/api/xmu_service/location.rs",
+      "source_id": null,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·西部片区5号",
+      "longitude": 118.30151,
+      "latitude": 24.605577,
+      "aliases": [
+        "西部片区5号"
+      ],
+      "source_url": "https://github.com/vintcessun/xmu_assistant_sign_bot/blob/5dc956b0fb80ed693ae5c2b4f2b6c823c74b3bee/src/api/xmu_service/location.rs",
+      "source_id": null,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·海韵",
+      "longitude": 118.11384,
+      "latitude": 24.430412,
+      "aliases": [
+        "海韵"
+      ],
+      "source_url": "https://github.com/vintcessun/xmu_assistant_sign_bot/blob/5dc956b0fb80ed693ae5c2b4f2b6c823c74b3bee/src/api/xmu_service/location.rs",
+      "source_id": null,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·集美",
+      "longitude": 118.09632,
+      "latitude": 24.436747,
+      "aliases": [
+        "集美"
+      ],
+      "source_url": "https://github.com/vintcessun/xmu_assistant_sign_bot/blob/5dc956b0fb80ed693ae5c2b4f2b6c823c74b3bee/src/api/xmu_service/location.rs",
+      "source_id": null,
+      "source_campus_id": 377507
+    },
+    {
+      "region": "XiangAn",
+      "name": "翔安校区·图书馆香山",
+      "longitude": 118.311424,
+      "latitude": 24.605495,
+      "aliases": [
+        "图书馆香山"
+      ],
+      "source_url": "https://github.com/vintcessun/xmu_assistant_sign_bot/blob/5dc956b0fb80ed693ae5c2b4f2b6c823c74b3bee/src/api/xmu_service/location.rs",
+      "source_id": null,
+      "source_campus_id": 377508
+    },
+    {
+      "region": "SiMing",
+      "name": "思明校区·德贞楼",
+      "longitude": 118.10167,
+      "latitude": 24.43397,
+      "aliases": [
+        "德贞楼"
+      ],
+      "source_url": "https://github.com/vintcessun/xmu_assistant_sign_bot/blob/5dc956b0fb80ed693ae5c2b4f2b6c823c74b3bee/src/api/xmu_service/location.rs",
+      "source_id": null,
+      "source_campus_id": 377507
+    }
+  ]
+}

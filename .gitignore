@@ -1,4 +1,5 @@
 /target
+/scripts/location-tests/target
 /data
 /src/api/llm/tool/config.rs
 /helper/target
