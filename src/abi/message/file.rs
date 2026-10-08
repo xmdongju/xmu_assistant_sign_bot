@@ -100,9 +100,11 @@ impl<'de> Deserialize<'de> for FileUrl {
 }
 
 impl FileUrl {
+    /// 文件可以尚未存在：LNT 富文本图片是先拿 URL、再异步下载落盘的，
+    /// 所以这里只补全成绝对路径，不用要求文件存在的 canonicalize。
     pub fn from_path(path: &Path) -> Result<Self> {
-        let absolute_path = std::fs::canonicalize(path).map_err(|e| {
-            error!(path = ?path, error = ?e, "无法获取文件的规范路径");
+        let absolute_path = std::path::absolute(path).map_err(|e| {
+            error!(path = ?path, error = ?e, "无法获取文件的绝对路径");
             e
         })?;
 
@@ -114,5 +116,18 @@ impl FileUrl {
             })?;
 
         Ok(Self::new(ret))
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::FileUrl;
+    use std::path::Path;
+
+    #[test]
+    fn from_path_accepts_file_not_yet_downloaded() {
+        let url = FileUrl::from_path(Path::new("./data/temp/not-downloaded-yet")).unwrap();
+        assert!(url.get_url().starts_with("file:///"));
+        assert!(url.get_url().ends_with("/data/temp/not-downloaded-yet"));
     }
 }
