@@ -102,6 +102,15 @@ pub fn query_sign_group(qq: i64) -> Option<i64> {
     TIMETABLE_GROUP.get(&qq).map(|x| *x)
 }
 
+/// Move an existing timetable owner's notification group without fetching a schedule.
+pub fn update_sign_group(qq: i64, group: i64) -> Result<bool> {
+    if qq <= 0 || group <= 0 || DATA.get(&qq).is_none() || query_sign_group(qq) == Some(group) {
+        return Ok(false);
+    }
+    TIMETABLE_GROUP.insert(qq, Arc::new(group))?;
+    Ok(true)
+}
+
 pub fn is_sign_time_active_now(qq: i64) -> bool {
     get_today_courses(qq)
         .map(|m| m.is_active(ClockTime::now()))
@@ -112,4 +121,33 @@ pub async fn update_sign_time(qq: i64, course_time: ScheduleCourseTime) -> Resul
     write_sign_time(qq, Arc::new(course_time))?;
     TIME_SIGN_TASK.force_update().await?;
     Ok(())
+}
+
+#[cfg(test)]
+mod notification_group_tests {
+    use super::*;
+    #[tokio::test]
+    async fn switches_only_the_existing_timetable_owner_and_preserves_the_schedule() {
+        let owner = 90000000001;
+        let other = 90000000002;
+        let old_group = 90000000003;
+        let new_group = 90000000004;
+        DATA.insert(owner, Arc::new(ScheduleCourseTime { times: Vec::new() })).unwrap();
+        DATA.insert(other, Arc::new(ScheduleCourseTime { times: Vec::new() })).unwrap();
+        TIMETABLE_GROUP.insert(owner, Arc::new(old_group)).unwrap();
+        TIMETABLE_GROUP.insert(other, Arc::new(old_group)).unwrap();
+        assert!(update_sign_group(owner, new_group).unwrap());
+        assert_eq!(query_sign_group(owner), Some(new_group));
+        assert_eq!(query_sign_group(other), Some(old_group));
+        assert!(query_sign_time(owner).is_some());
+        assert!(!update_sign_group(owner, new_group).unwrap());
+        assert!(!update_sign_group(90000000005, new_group).unwrap());
+        assert_eq!(query_sign_group(90000000005), None);
+        assert!(!update_sign_group(owner, 0).unwrap());
+        assert_eq!(query_sign_group(owner), Some(new_group));
+        for qq in [owner, other] {
+            DATA.remove(&qq).unwrap();
+            TIMETABLE_GROUP.remove(&qq).unwrap();
+        }
+    }
 }

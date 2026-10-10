@@ -726,7 +726,7 @@ async fn send_reports(
         if response.is_empty() {
             continue;
         }
-        let Some(&group_id) = groups.get(&qq) else {
+        let Some(group_id) = super::query_sign_group(qq).filter(|_| groups.contains_key(&qq)) else {
             continue;
         };
         let params = SendGroupMessageParams {
@@ -754,7 +754,7 @@ async fn send_reports(
         if !NOTLOGIN_REMINDED.insert(qq) {
             continue;
         }
-        let Some(&group_id) = groups.get(&qq) else {
+        let Some(group_id) = super::query_sign_group(qq).filter(|_| groups.contains_key(&qq)) else {
             continue;
         };
         let params = SendGroupMessageParams {
